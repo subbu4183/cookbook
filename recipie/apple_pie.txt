@@ -1,6 +1,7 @@
 Apple pie
 pastry
-buter
+butter
 flour
 sugar
-apple
+apples
+cinnamon
