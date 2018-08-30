@@ -5,3 +5,4 @@ flour
 sugar
 apples
 cinnamon
+salt
